@@ -9,7 +9,14 @@
 
 <!-- Tech stack I'm using-->
 
+<!-- WIP
 ---
+
+## About me
+👩‍💻 ♀️ Cloud Consultant/Software Engineer/Architect from Germany 🇩🇪<br>
+🥳 your cheerleader for women in tech<br>
+-->
+
 
 
 
