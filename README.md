@@ -12,12 +12,23 @@
 <!-- WIP
 ---
 
-## About me
+### About me
 👩‍💻 ♀️ Cloud Consultant/Software Engineer/Architect from Germany 🇩🇪<br>
 🥳 your cheerleader for women in tech<br>
+
+---
+
+#### Tools 'n Programming Languages
+<div id="tools-and-languages">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30" />
+</div>
+
 -->
-
-
 
 
 <!--
